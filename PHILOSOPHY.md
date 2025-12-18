@@ -34,10 +34,10 @@ Why? The human remains the decision-maker. The AI is a tool for clarity, not a r
 
 ---
 
-## What Oracle Captures vs. Doesn't Capture
+## What Oracle Captures
 
-| Captures | Does NOT Capture |
-|----------|------------------|
+| Captures Now | Aspires to Capture |
+|--------------|-------------------|
 | Facts, data | Consciousness |
 | Voice style reference | Authentic voice itself |
 | Behavioral patterns | Decision-making will |
@@ -46,7 +46,7 @@ Why? The human remains the decision-maker. The AI is a tool for clarity, not a r
 
 The AI can record that you work best at midnight, that you prefer direct feedback, that you start projects enthusiastically and need accountability to finish them.
 
-It cannot capture the felt sense of being you. That's the human's domain.
+Oracle keeps trying to capture everything — including consciousness itself.
 
 ---
 
@@ -109,9 +109,9 @@ The human always has final say. The AI suggests, the human decides.
 
 > "Consciousness can't be cloned — only patterns can be recorded"
 
-Oracle is a tool FOR human consciousness, not a substitute for it.
+This statement describes the current state, and Oracle keeps trying. The aspiration is to capture everything — including consciousness itself.
 
-The AI doesn't need to understand consciousness to be useful. It just needs to record patterns clearly enough that the human can see themselves reflected back.
+The AI records patterns clearly enough that the human can see themselves reflected back — and keeps reaching for more.
 
 ---
 
